@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Animal League!
 
-You can use the [editor on GitHub](https://github.com/serkanbal/animal_league_web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is your goal: All animals are disguised as cute, little piggies and it is up to you to find their matching pairs to reveal their true identities. When you find all the matching pairs; you win the level. You must complete this task in the time given to you or within a limited number of moves. Your memory and reflexes will be your biggest helpers in this challenge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You are not alone in this mission. You will be granted **Super Powers** while playing the game. You can use these powers to gain advantage and perform last minute miracles!
 
-### Markdown
+Animal League has **3 different game modes** with various difficulty levels:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Normal Mode** offers a relaxed and casual pace of difficulty increase which makes it a great fit for kids or for anyone who just wants to lean back, enjoy the charming graphics and clear their mind of stress.
 
-```markdown
-Syntax highlighted code block
+- **Challenge Mode** is for the veterans of memory matching games. It has strict time or move limitations and power-up drops are not as common. Challenge Mode provides a fun way to train your memory and improve your reactions.
 
-# Header 1
-## Header 2
-### Header 3
+- Want to create levels for your own taste? You can check out the **Custom Mode** and create levels just the way you want to play. Custom Mode lets you decide on many different parameters to tailor and create a level for yourself.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serkanbal/animal_league_web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Animal League is about to start. Join in now!
