@@ -1,4 +1,4 @@
-![Animal League Intro](https://github.com/serkanbal/animal_league_web/blob/master/rsz_animal_league_intro.png)
+![Animal League Intro](https://github.com/serkanbal/animal_league_web/blob/master/rsz_animal_league_intro.png?raw=true)
 
 # Welcome to Animal League!
 
