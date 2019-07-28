@@ -1,4 +1,4 @@
-# Welcome to Animal League!
+# Welcome to Animal League!
 
 Here is your goal: All animals are disguised as cute, little piggies and it is up to you to find their matching pairs to reveal their true identities. When you find all the matching pairs; you win the level. You must complete this task in the time given to you or within a limited number of moves. Your memory and reflexes will be your biggest helpers in this challenge.
 
@@ -12,4 +12,4 @@ Animal League has **3 different game modes** with various difficulty levels:
 
 - Want to create levels for your own taste? You can check out the **Custom Mode** and create levels just the way you want to play. Custom Mode lets you decide on many different parameters to tailor and create a level for yourself.
 
-## Animal League is about to start. Join in now!
+## Animal League is about to start. Join in now!
